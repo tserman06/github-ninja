@@ -1,7 +1,11 @@
 import React from "react";
 
 const Feature = () => {
-  return <div>React Github</div>;
+  return (
+    <div>
+      <h1>React Github</h1>
+    </div>
+  );
 };
 
 export default Feature;
